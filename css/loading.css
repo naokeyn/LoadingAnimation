@@ -11,6 +11,11 @@
     background-color: white;
 }
 
+#loading p {
+    text-align: center;
+    color: #01bfff;
+}
+
 .loader,
 .loader:before,
 .loader:after {
