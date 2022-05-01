@@ -1,5 +1,5 @@
 .loader_img {
-    animation: infinite linear 2s rotation;
+    animation: infinite linear 2.5s rotation;
 }
 
 @keyframes rotation {
